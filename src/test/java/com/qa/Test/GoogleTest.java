@@ -27,4 +27,9 @@ public class GoogleTest {
 		Assert.assertEquals(text, "Selenium");
 		
 	}
+	@Test
+	public void test2() {
+		System.out.println("test 2");
+	}
+	
 }
