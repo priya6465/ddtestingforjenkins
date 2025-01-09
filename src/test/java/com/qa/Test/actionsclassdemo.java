@@ -24,7 +24,7 @@ public class actionsclassdemo {
 	String text=driver.findElement(By.xpath("//div[@class='dropdown-content']//a[text()='Selenium']")).getText();
 	System.out.println(text);
 	Assert.assertEquals(text, "Selenium");
-	
+	driver.quit();
 	
 }
 }
