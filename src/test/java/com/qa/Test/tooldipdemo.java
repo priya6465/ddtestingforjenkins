@@ -20,4 +20,14 @@ public class tooldipdemo {
 	}
 
 
+	@Test
+	public void test4() {
+		System.out.println("this is test 4");
+	}
+
+	@Test
+	public void test5() {
+		System.out.println("this is test 3");
+	}
+
 }
