@@ -27,7 +27,11 @@ public class tooldipdemo {
 
 	@Test
 	public void test5() {
+<<<<<<< HEAD
 		System.out.println("this is test 5");
+=======
+		System.out.println("this is test 3");
+>>>>>>> master
 	}
 
 }
