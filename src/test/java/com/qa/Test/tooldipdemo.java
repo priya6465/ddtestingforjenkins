@@ -33,7 +33,6 @@ public class tooldipdemo {
 	@Test
 	public void test6() {
 		System.out.println("this is test 6");
-
 	}
 
 }
