@@ -45,4 +45,11 @@ public class tooldipdemo {
 	public void test9() {
 		System.out.println("this is test 9 of");
 	}
+	@Test
+	public void test10() {
+		System.out.println("this is test 10 of");
+	}
+	
+	
+	
 }
