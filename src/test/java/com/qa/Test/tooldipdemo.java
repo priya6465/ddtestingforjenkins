@@ -42,7 +42,10 @@ public class tooldipdemo {
 
 	@Test
 	public void test8() {
-		System.out.println("this is test 7");
+		System.out.println("this is test 8");
 	}
-
+	@Test
+	public void test9() {
+		System.out.println("this is test 9");
+	}
 }
