@@ -50,6 +50,11 @@ public class tooldipdemo {
 		System.out.println("this is test 10 of");
 	}
 	
+	@Test
+	public void test11() {
+		System.out.println("this is test 11of");
+	}
+	
 	
 	
 }
