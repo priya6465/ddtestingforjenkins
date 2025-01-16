@@ -46,6 +46,6 @@ public class tooldipdemo {
 	}
 	@Test
 	public void test9() {
-		System.out.println("this is test 9");
+		System.out.println("this is test 9 of");
 	}
 }
