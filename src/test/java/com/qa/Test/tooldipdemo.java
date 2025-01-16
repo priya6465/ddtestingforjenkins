@@ -28,11 +28,6 @@ public class tooldipdemo {
 	@Test
 	public void test5() {
 		System.out.println("this is test 5");
-
-	}
-	@Test
-	public void test6() {
-		System.out.println("this is test 6");
 	}
 
 
@@ -42,4 +37,12 @@ public class tooldipdemo {
 		System.out.println("this is test 7");
 	}
 
+	@Test
+	public void test8() {
+		System.out.println("this is test 8");
+	}
+	@Test
+	public void test9() {
+		System.out.println("this is test 9 of");
+	}
 }
