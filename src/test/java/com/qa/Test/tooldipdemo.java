@@ -6,7 +6,7 @@ public class tooldipdemo {
 
 	@Test
 	public void test1() {
-		System.out.println("this is test 1");
+		System.out.println("this is test 1 one");
 	}
 
 	@Test
