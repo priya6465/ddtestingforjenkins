@@ -54,7 +54,14 @@ public class tooldipdemo {
 	public void test11() {
 		System.out.println("this is test 11of");
 	}
-	
+	@Test
+	public void test12() {
+		System.out.println("this is test 12 testcase added");
+	}
+	@Test
+	public void test13() {
+		System.out.println("this is test 13 testcase added.");
+	}
 	
 	
 }
