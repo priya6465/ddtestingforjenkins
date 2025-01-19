@@ -73,6 +73,13 @@ public class tooldipdemo {
 		System.out.println("my name is priyanka");
 	}
 	
+	@Test
+	public void test16() {
+
+		System.out.println("this is testcaes 16");
+	}
+	
+
 
 	
 }
