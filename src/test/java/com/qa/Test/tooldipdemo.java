@@ -4,7 +4,7 @@ import org.testng.annotations.Test;
 
 public class tooldipdemo {
 
-	
+
 	@Test
 	public void test1() {
 		System.out.println("this is test 1 one");
@@ -97,5 +97,16 @@ public class tooldipdemo {
 		System.out.println("this is 20 testcaes");
 	}
 
+	@Test
+	public void test21() {
+
+		System.out.println("this is 21 testcaes");
+	}
+
+	@Test
+	public void test22() {
+
+		System.out.println("this is 22 testcaes");
+	}
 
 }
