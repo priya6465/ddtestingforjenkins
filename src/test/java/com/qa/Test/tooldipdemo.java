@@ -90,6 +90,11 @@ public class tooldipdemo {
 		System.out.println("this is 19 testcaes");
 	}
 
+	@Test
+	public void test20() {
+
+		System.out.println("this is 20 testcaes");
+	}
 
 
 }
