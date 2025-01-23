@@ -121,4 +121,10 @@ public class tooldipdemo {
 		System.out.println("this is 24 testcaes");
 	}
 
+	@Test
+	public void test25() {
+
+		System.out.println("this is 25 testcaes");
+	}
+
 }
