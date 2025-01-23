@@ -119,6 +119,7 @@ public class tooldipdemo {
 	public void test24() {
 
 		System.out.println("this is 24 testcaes");
+		System.out.println("this is 24 syso testcaes");
 	}
 
 	@Test
