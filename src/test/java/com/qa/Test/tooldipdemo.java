@@ -124,7 +124,9 @@ public class tooldipdemo {
 	@Test
 	public void test25() {
 
-		System.out.println("this is 25 testcaes");
+		System.out.println("this is 25 testcaes");	
+		System.out.println("this is 25 new syso testcaes");
+		
 	}
 
 }
